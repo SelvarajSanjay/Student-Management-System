@@ -1,0 +1,2 @@
+We have a 9×9 grid in Sudoku, in which every row and column should have elements from 1 to 9 without repetition, also every 3×3 grid from the left most cell should follow this rule.
+Used Recursion to develop Sudoku solver in java.Used a backtracking algorithm to solve the Sudoku in java.
